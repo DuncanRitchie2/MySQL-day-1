@@ -1,0 +1,37 @@
+[
+	{
+		"id" : 1,
+		"name" : "robin",
+		"scientificName" : "Erithacus rubecula"
+	},
+	{
+		"id" : 2,
+		"name" : "magpie",
+		"scientificName" : "Pica pica"
+	},
+	{
+		"id" : 3,
+		"name" : "gannet",
+		"scientificName" : "Morus bassanus"
+	},
+	{
+		"id" : 4,
+		"name" : "cormorant",
+		"scientificName" : "Phalacrocorax carbo"
+	},
+	{
+		"id" : 5,
+		"name" : "reed bunting",
+		"scientificName" : null
+	},
+	{
+		"id" : 6,
+		"name" : "house sparrow",
+		"scientificName" : "Passer domesticus"
+	},
+	{
+		"id" : 7,
+		"name" : "great tit",
+		"scientificName" : "Parus major"
+	}
+]
