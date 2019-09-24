@@ -1,0 +1,146 @@
+[
+	{
+		"book_id" : 1,
+		"title" : "The Namesake",
+		"author_fname" : "Jhumpa",
+		"author_lname" : "Lahiri",
+		"released_year" : 2003,
+		"stock_quantity" : 32,
+		"pages" : 291
+	},
+	{
+		"book_id" : 2,
+		"title" : "Norse Mythology",
+		"author_fname" : "Neil",
+		"author_lname" : "Gaiman",
+		"released_year" : 2016,
+		"stock_quantity" : 43,
+		"pages" : 304
+	},
+	{
+		"book_id" : 3,
+		"title" : "American Gods",
+		"author_fname" : "Neil",
+		"author_lname" : "Gaiman",
+		"released_year" : 2001,
+		"stock_quantity" : 12,
+		"pages" : 465
+	},
+	{
+		"book_id" : 4,
+		"title" : "Interpreter of Maladies",
+		"author_fname" : "Jhumpa",
+		"author_lname" : "Lahiri",
+		"released_year" : 1996,
+		"stock_quantity" : 97,
+		"pages" : 198
+	},
+	{
+		"book_id" : 5,
+		"title" : "A Hologram for the King: A Novel",
+		"author_fname" : "Dave",
+		"author_lname" : "Eggers",
+		"released_year" : 2012,
+		"stock_quantity" : 154,
+		"pages" : 352
+	},
+	{
+		"book_id" : 6,
+		"title" : "The Circle",
+		"author_fname" : "Dave",
+		"author_lname" : "Eggers",
+		"released_year" : 2013,
+		"stock_quantity" : 26,
+		"pages" : 504
+	},
+	{
+		"book_id" : 7,
+		"title" : "The Amazing Adventures of Kavalier & Clay",
+		"author_fname" : "Michael",
+		"author_lname" : "Chabon",
+		"released_year" : 2000,
+		"stock_quantity" : 68,
+		"pages" : 634
+	},
+	{
+		"book_id" : 8,
+		"title" : "Just Kids",
+		"author_fname" : "Patti",
+		"author_lname" : "Smith",
+		"released_year" : 2010,
+		"stock_quantity" : 55,
+		"pages" : 304
+	},
+	{
+		"book_id" : 9,
+		"title" : "A Heartbreaking Work of Staggering Genius",
+		"author_fname" : "Dave",
+		"author_lname" : "Eggers",
+		"released_year" : 2001,
+		"stock_quantity" : 104,
+		"pages" : 437
+	},
+	{
+		"book_id" : 10,
+		"title" : "Coraline",
+		"author_fname" : "Neil",
+		"author_lname" : "Gaiman",
+		"released_year" : 2003,
+		"stock_quantity" : 100,
+		"pages" : 208
+	},
+	{
+		"book_id" : 11,
+		"title" : "What We Talk About When We Talk About Love: Stories",
+		"author_fname" : "Raymond",
+		"author_lname" : "Carver",
+		"released_year" : 1981,
+		"stock_quantity" : 23,
+		"pages" : 176
+	},
+	{
+		"book_id" : 12,
+		"title" : "Where I'm Calling From: Selected Stories",
+		"author_fname" : "Raymond",
+		"author_lname" : "Carver",
+		"released_year" : 1989,
+		"stock_quantity" : 12,
+		"pages" : 526
+	},
+	{
+		"book_id" : 13,
+		"title" : "White Noise",
+		"author_fname" : "Don",
+		"author_lname" : "DeLillo",
+		"released_year" : 1985,
+		"stock_quantity" : 49,
+		"pages" : 320
+	},
+	{
+		"book_id" : 14,
+		"title" : "Cannery Row",
+		"author_fname" : "John",
+		"author_lname" : "Steinbeck",
+		"released_year" : 1945,
+		"stock_quantity" : 95,
+		"pages" : 181
+	},
+	{
+		"book_id" : 15,
+		"title" : "Oblivion: Stories",
+		"author_fname" : "David",
+		"author_lname" : "Foster Wallace",
+		"released_year" : 2004,
+		"stock_quantity" : 172,
+		"pages" : 329
+	},
+	{
+		"book_id" : 16,
+		"title" : "Consider the Lobster",
+		"author_fname" : "David",
+		"author_lname" : "Foster Wallace",
+		"released_year" : 2005,
+		"stock_quantity" : 92,
+		"pages" : 343
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"author full name" : Jhumpa Lahiri,
+		"avg(released_year)" : 1999.5000
+	},
+	{
+		"author full name" : Neil Gaiman,
+		"avg(released_year)" : 2006.6667
+	},
+	{
+		"author full name" : Dave Eggers,
+		"avg(released_year)" : 2008.6667
+	},
+	{
+		"author full name" : Michael Chabon,
+		"avg(released_year)" : 2000.0000
+	},
+	{
+		"author full name" : Patti Smith,
+		"avg(released_year)" : 2010.0000
+	},
+	{
+		"author full name" : Raymond Carver,
+		"avg(released_year)" : 1985.0000
+	},
+	{
+		"author full name" : Don DeLillo,
+		"avg(released_year)" : 1985.0000
+	},
+	{
+		"author full name" : John Steinbeck,
+		"avg(released_year)" : 1945.0000
+	},
+	{
+		"author full name" : David Foster Wallace,
+		"avg(released_year)" : 2004.5000
+	}
+]
