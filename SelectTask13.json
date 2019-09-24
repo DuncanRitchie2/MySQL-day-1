@@ -1,0 +1,26 @@
+[
+	{
+		"id" : 25,
+		"first_name" : "Laura",
+		"last_name" : "Skerme",
+		"email" : "lskermeo@ucla.edu",
+		"car" : "Corvette",
+		"car_year" : 2012
+	},
+	{
+		"id" : 327,
+		"first_name" : "Chadwick",
+		"last_name" : "Blick",
+		"email" : "cblick92@squarespace.com",
+		"car" : "Corvette",
+		"car_year" : 1992
+	},
+	{
+		"id" : 36,
+		"first_name" : "Nelie",
+		"last_name" : "Trussman",
+		"email" : "ntrussmanz@engadget.com",
+		"car" : "Corvette",
+		"car_year" : 1986
+	}
+]

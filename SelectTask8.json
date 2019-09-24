@@ -1,17 +1,6 @@
 [
 	{
-		"first_name" : "Lorine",
-		"last_name" : "Hartopp",
-		"car_year" : 1993
-	},
-	{
-		"first_name" : "Eal",
-		"last_name" : "Skipsey",
-		"car_year" : 1993
-	},
-	{
 		"first_name" : "Nerta",
-		"last_name" : "Zapater",
-		"car_year" : 1989
+		"last_name" : "Zapater"
 	}
 ]

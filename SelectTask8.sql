@@ -1,2 +1,2 @@
 use owners;
-select first_name, last_name, car_year from car_owners where car = "Golf";
+select first_name, last_name from car_owners where car = "Golf" order by car_year limit 1;
