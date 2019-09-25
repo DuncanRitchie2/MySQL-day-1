@@ -1,0 +1,82 @@
+[
+	{
+		"title" : "The Namesake",
+		"stock_quantity" : 32,
+		"message" : "Need more stock"
+	},
+	{
+		"title" : "Norse Mythology",
+		"stock_quantity" : 43,
+		"message" : "Need more stock"
+	},
+	{
+		"title" : "American Gods",
+		"stock_quantity" : 12,
+		"message" : "Need more stock"
+	},
+	{
+		"title" : "Interpreter of Maladies",
+		"stock_quantity" : 97,
+		"message" : "Adequate stock"
+	},
+	{
+		"title" : "A Hologram for the King: A Novel",
+		"stock_quantity" : 154,
+		"message" : "Adequate stock"
+	},
+	{
+		"title" : "The Circle",
+		"stock_quantity" : 26,
+		"message" : "Need more stock"
+	},
+	{
+		"title" : "The Amazing Adventures of Kavalier & Clay",
+		"stock_quantity" : 68,
+		"message" : "Adequate stock"
+	},
+	{
+		"title" : "Just Kids",
+		"stock_quantity" : 55,
+		"message" : "Adequate stock"
+	},
+	{
+		"title" : "A Heartbreaking Work of Staggering Genius",
+		"stock_quantity" : 104,
+		"message" : "Adequate stock"
+	},
+	{
+		"title" : "Coraline",
+		"stock_quantity" : 100,
+		"message" : "Adequate stock"
+	},
+	{
+		"title" : "What We Talk About When We Talk About Love: Stories",
+		"stock_quantity" : 23,
+		"message" : "Need more stock"
+	},
+	{
+		"title" : "Where I'm Calling From: Selected Stories",
+		"stock_quantity" : 12,
+		"message" : "Need more stock"
+	},
+	{
+		"title" : "White Noise",
+		"stock_quantity" : 49,
+		"message" : "Need more stock"
+	},
+	{
+		"title" : "Cannery Row",
+		"stock_quantity" : 95,
+		"message" : "Adequate stock"
+	},
+	{
+		"title" : "Oblivion: Stories",
+		"stock_quantity" : 172,
+		"message" : "Adequate stock"
+	},
+	{
+		"title" : "Consider the Lobster",
+		"stock_quantity" : 92,
+		"message" : "Adequate stock"
+	}
+]

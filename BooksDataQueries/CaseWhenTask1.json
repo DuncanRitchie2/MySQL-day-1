@@ -1,0 +1,66 @@
+[
+	{
+		"title" : "The Namesake",
+		"stock" : "*"
+	},
+	{
+		"title" : "Norse Mythology",
+		"stock" : "*"
+	},
+	{
+		"title" : "American Gods",
+		"stock" : "*"
+	},
+	{
+		"title" : "Interpreter of Maladies",
+		"stock" : "**"
+	},
+	{
+		"title" : "A Hologram for the King: A Novel",
+		"stock" : "***"
+	},
+	{
+		"title" : "The Circle",
+		"stock" : "*"
+	},
+	{
+		"title" : "The Amazing Adventures of Kavalier & Clay",
+		"stock" : "**"
+	},
+	{
+		"title" : "Just Kids",
+		"stock" : "**"
+	},
+	{
+		"title" : "A Heartbreaking Work of Staggering Genius",
+		"stock" : "***"
+	},
+	{
+		"title" : "Coraline",
+		"stock" : "**"
+	},
+	{
+		"title" : "What We Talk About When We Talk About Love: Stories",
+		"stock" : "*"
+	},
+	{
+		"title" : "Where I'm Calling From: Selected Stories",
+		"stock" : "*"
+	},
+	{
+		"title" : "White Noise",
+		"stock" : "*"
+	},
+	{
+		"title" : "Cannery Row",
+		"stock" : "**"
+	},
+	{
+		"title" : "Oblivion: Stories",
+		"stock" : "***"
+	},
+	{
+		"title" : "Consider the Lobster",
+		"stock" : "**"
+	}
+]
