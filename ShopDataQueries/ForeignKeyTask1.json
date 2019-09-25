@@ -1,0 +1,308 @@
+[
+	{
+		"id" : 1,
+		"order_date" : "2017-06-19",
+		"amount" : 258.21,
+		"customer_id" : 43
+	},
+	{
+		"id" : 2,
+		"order_date" : "2018-07-30",
+		"amount" : 821.65,
+		"customer_id" : 33
+	},
+	{
+		"id" : 3,
+		"order_date" : "2018-09-26",
+		"amount" : 993.79,
+		"customer_id" : 39
+	},
+	{
+		"id" : 4,
+		"order_date" : "2018-01-16",
+		"amount" : 344.69,
+		"customer_id" : 36
+	},
+	{
+		"id" : 5,
+		"order_date" : "2019-09-04",
+		"amount" : 747.85,
+		"customer_id" : 34
+	},
+	{
+		"id" : 6,
+		"order_date" : "2019-03-15",
+		"amount" : 780.39,
+		"customer_id" : 38
+	},
+	{
+		"id" : 7,
+		"order_date" : "2018-12-24",
+		"amount" : 300.47,
+		"customer_id" : 48
+	},
+	{
+		"id" : 8,
+		"order_date" : "2018-05-12",
+		"amount" : 470.43,
+		"customer_id" : 4
+	},
+	{
+		"id" : 9,
+		"order_date" : "2018-07-16",
+		"amount" : 813.67,
+		"customer_id" : 41
+	},
+	{
+		"id" : 10,
+		"order_date" : "2019-06-14",
+		"amount" : 987.01,
+		"customer_id" : 32
+	},
+	{
+		"id" : 11,
+		"order_date" : "2017-03-01",
+		"amount" : 110.54,
+		"customer_id" : 20
+	},
+	{
+		"id" : 12,
+		"order_date" : "2019-04-28",
+		"amount" : 651.07,
+		"customer_id" : 6
+	},
+	{
+		"id" : 13,
+		"order_date" : "2017-01-23",
+		"amount" : 28.84,
+		"customer_id" : 37
+	},
+	{
+		"id" : 14,
+		"order_date" : "2016-12-07",
+		"amount" : 325.95,
+		"customer_id" : 20
+	},
+	{
+		"id" : 15,
+		"order_date" : "2019-03-15",
+		"amount" : 612.63,
+		"customer_id" : 41
+	},
+	{
+		"id" : 16,
+		"order_date" : "2018-06-14",
+		"amount" : 72.72,
+		"customer_id" : 5
+	},
+	{
+		"id" : 17,
+		"order_date" : "2017-06-20",
+		"amount" : 666.19,
+		"customer_id" : 34
+	},
+	{
+		"id" : 18,
+		"order_date" : "2019-08-01",
+		"amount" : 318.68,
+		"customer_id" : 34
+	},
+	{
+		"id" : 19,
+		"order_date" : "2018-07-06",
+		"amount" : 392.61,
+		"customer_id" : 23
+	},
+	{
+		"id" : 20,
+		"order_date" : "2017-05-08",
+		"amount" : 6.86,
+		"customer_id" : 35
+	},
+	{
+		"id" : 21,
+		"order_date" : "2017-09-23",
+		"amount" : 601.81,
+		"customer_id" : 27
+	},
+	{
+		"id" : 22,
+		"order_date" : "2017-03-26",
+		"amount" : 226.25,
+		"customer_id" : 37
+	},
+	{
+		"id" : 23,
+		"order_date" : "2019-02-03",
+		"amount" : 351.87,
+		"customer_id" : 34
+	},
+	{
+		"id" : 24,
+		"order_date" : "2016-11-26",
+		"amount" : 579.70,
+		"customer_id" : 17
+	},
+	{
+		"id" : 25,
+		"order_date" : "2018-11-21",
+		"amount" : 977.76,
+		"customer_id" : 28
+	},
+	{
+		"id" : 26,
+		"order_date" : "2019-09-06",
+		"amount" : 159.64,
+		"customer_id" : 15
+	},
+	{
+		"id" : 27,
+		"order_date" : "2018-09-20",
+		"amount" : 788.45,
+		"customer_id" : 17
+	},
+	{
+		"id" : 28,
+		"order_date" : "2017-08-03",
+		"amount" : 669.25,
+		"customer_id" : 41
+	},
+	{
+		"id" : 29,
+		"order_date" : "2017-09-22",
+		"amount" : 983.60,
+		"customer_id" : 39
+	},
+	{
+		"id" : 30,
+		"order_date" : "2017-05-17",
+		"amount" : 602.88,
+		"customer_id" : 49
+	},
+	{
+		"id" : 31,
+		"order_date" : "2018-06-28",
+		"amount" : 445.37,
+		"customer_id" : 36
+	},
+	{
+		"id" : 32,
+		"order_date" : "2019-09-05",
+		"amount" : 606.58,
+		"customer_id" : 38
+	},
+	{
+		"id" : 33,
+		"order_date" : "2019-07-31",
+		"amount" : 965.32,
+		"customer_id" : 33
+	},
+	{
+		"id" : 34,
+		"order_date" : "2019-05-27",
+		"amount" : 120.38,
+		"customer_id" : 44
+	},
+	{
+		"id" : 35,
+		"order_date" : "2018-03-18",
+		"amount" : 789.75,
+		"customer_id" : 28
+	},
+	{
+		"id" : 36,
+		"order_date" : "2018-11-28",
+		"amount" : 925.87,
+		"customer_id" : 35
+	},
+	{
+		"id" : 37,
+		"order_date" : "2017-06-18",
+		"amount" : 293.51,
+		"customer_id" : 2
+	},
+	{
+		"id" : 38,
+		"order_date" : "2018-01-26",
+		"amount" : 348.55,
+		"customer_id" : 45
+	},
+	{
+		"id" : 39,
+		"order_date" : "2017-04-20",
+		"amount" : 996.04,
+		"customer_id" : 19
+	},
+	{
+		"id" : 40,
+		"order_date" : "2019-05-20",
+		"amount" : 862.62,
+		"customer_id" : 5
+	},
+	{
+		"id" : 41,
+		"order_date" : "2017-11-27",
+		"amount" : 547.71,
+		"customer_id" : 23
+	},
+	{
+		"id" : 42,
+		"order_date" : "2019-05-30",
+		"amount" : 883.66,
+		"customer_id" : 15
+	},
+	{
+		"id" : 43,
+		"order_date" : "2019-08-10",
+		"amount" : 837.24,
+		"customer_id" : 25
+	},
+	{
+		"id" : 44,
+		"order_date" : "2018-03-19",
+		"amount" : 298.86,
+		"customer_id" : 33
+	},
+	{
+		"id" : 45,
+		"order_date" : "2018-09-29",
+		"amount" : 287.83,
+		"customer_id" : 18
+	},
+	{
+		"id" : 46,
+		"order_date" : "2017-07-20",
+		"amount" : 575.56,
+		"customer_id" : 1
+	},
+	{
+		"id" : 47,
+		"order_date" : "2018-07-11",
+		"amount" : 850.49,
+		"customer_id" : 18
+	},
+	{
+		"id" : 48,
+		"order_date" : "2017-10-05",
+		"amount" : 655.18,
+		"customer_id" : 47
+	},
+	{
+		"id" : 49,
+		"order_date" : "2016-10-07",
+		"amount" : 565.77,
+		"customer_id" : 24
+	},
+	{
+		"id" : 50,
+		"order_date" : "2019-03-22",
+		"amount" : 674.91,
+		"customer_id" : 33
+	},
+	{
+		"id" : 52,
+		"order_date" : "2019-09-25",
+		"amount" : 144.12,
+		"customer_id" : 49
+	}
+]

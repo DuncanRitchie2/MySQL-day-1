@@ -1,0 +1,26 @@
+[
+	{
+		"id" : 2,
+		"order_date" : "2018-07-30",
+		"amount" : 821.65,
+		"customer_id" : 33
+	},
+	{
+		"id" : 33,
+		"order_date" : "2019-07-31",
+		"amount" : 965.32,
+		"customer_id" : 33
+	},
+	{
+		"id" : 44,
+		"order_date" : "2018-03-19",
+		"amount" : 298.86,
+		"customer_id" : 33
+	},
+	{
+		"id" : 50,
+		"order_date" : "2019-03-22",
+		"amount" : 674.91,
+		"customer_id" : 33
+	}
+]
