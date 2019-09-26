@@ -1,0 +1,2 @@
+use tv_reviews;
+select first_name, last_name, (select count(*) from reviews where reviews.reviewer_id = reviewers.id) as "number of reviews", case when (select count(*) from reviews where reviews.reviewer_id = reviewers.id) = 0 then "inactive" else "active" end as "status" from reviewers left join reviews on reviewers.id = reviews.reviewer_id group by reviewers.id order by (select count(*) from reviews where reviews.reviewer_id = reviewers.id) desc, reviewers.last_name asc;

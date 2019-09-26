@@ -1,0 +1,50 @@
+[
+	{
+		"title" : Homeland,
+		"avg(reviews.rating)" : 9.90000
+	},
+	{
+		"title" : Peaky Blinders,
+		"avg(reviews.rating)" : 9.40000
+	},
+	{
+		"title" : Breaking Bad,
+		"avg(reviews.rating)" : 9.36000
+	},
+	{
+		"title" : Stranger Things,
+		"avg(reviews.rating)" : 8.76667
+	},
+	{
+		"title" : Saved By The Bell,
+		"avg(reviews.rating)" : 8.60000
+	},
+	{
+		"title" : Rick and Morty,
+		"avg(reviews.rating)" : 8.12000
+	},
+	{
+		"title" : The Good Place,
+		"avg(reviews.rating)" : 8.12000
+	},
+	{
+		"title" : Power,
+		"avg(reviews.rating)" : 8.08000
+	},
+	{
+		"title" : The Simpsons,
+		"avg(reviews.rating)" : 7.94000
+	},
+	{
+		"title" : Friends,
+		"avg(reviews.rating)" : 7.60000
+	},
+	{
+		"title" : Family Guy,
+		"avg(reviews.rating)" : 7.52000
+	},
+	{
+		"title" : The Walking Dead,
+		"avg(reviews.rating)" : 5.38000
+	}
+]

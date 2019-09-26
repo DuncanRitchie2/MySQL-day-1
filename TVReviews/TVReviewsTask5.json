@@ -1,0 +1,14 @@
+[
+	{
+		"genre" : Comedy,
+		"average rating" : 8.20000
+	},
+	{
+		"genre" : Drama,
+		"average rating" : 8.05238
+	},
+	{
+		"genre" : Animation,
+		"average rating" : 7.86000
+	}
+]
