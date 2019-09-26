@@ -1,0 +1,30 @@
+[
+	{
+		"day of week" : Sunday,
+		"number of photos" : 16
+	},
+	{
+		"day of week" : Thursday,
+		"number of photos" : 16
+	},
+	{
+		"day of week" : Friday,
+		"number of photos" : 15
+	},
+	{
+		"day of week" : Monday,
+		"number of photos" : 14
+	},
+	{
+		"day of week" : Tuesday,
+		"number of photos" : 14
+	},
+	{
+		"day of week" : Wednesday,
+		"number of photos" : 13
+	},
+	{
+		"day of week" : Saturday,
+		"number of photos" : 12
+	}
+]
